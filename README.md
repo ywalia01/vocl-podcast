@@ -1,1 +1,2 @@
-https://ywalia01.github.io/podcast_site/
+# VOCL Podcast
+Landing page for the VOCL Podcast
